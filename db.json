@@ -1,8 +1,8 @@
 {
-  "posts": [
+  "user": [
     {
       "id": 0,
-      "title": "First post!",
+      "name": "Ben!",
       "content": "My first content!"
     }
   ],
