@@ -1,5 +1,5 @@
 {
-  "Daily Tasks": [
+  "DailyTasks": [
     "User",
     [
       "Name"
@@ -23,7 +23,7 @@
       "Wipe Down Handwash Stations At Factory Entrances"
     ]
   ],
-  "Weekly Tasks": [
+  "WeeklyTasks": [
     "User",
     [
       "Name"
@@ -39,7 +39,7 @@
       "Oil Delivery Truck Parking Area"
     ]
   ],
-  "Monthly Tasks": [
+  "MonthlyTasks": [
     "User",
     [
       "Name"
