@@ -1,35 +1,59 @@
 {
-  "user": [
-    {
-      "id": 0,
-      "name": "Ben!",
-      "content": "My first content!"
-    }
+  "Daily Tasks": [
+    "User",
+    [
+      "Name"
+    ],
+    "Date completed",
+    [
+      "Date"
+    ],
+    "Task",
+    [
+      "Empty Ashtray At Smokers Hut",
+      "Empty Production Waste Bins",
+      "Empty Rubbish Bin At Smokers Hut",
+      "Refill Beard nets",
+      "Refill Blue Hand Roll Dispensers",
+      "Refill Earplugs",
+      "Refill Hairnets",
+      "Refill Hand Sanitiser Dispensers",
+      "Refill Hand Soap Dispensers",
+      "Wipe Down Dispensers At Factory Entrances",
+      "Wipe Down Handwash Stations At Factory Entrances"
+    ]
   ],
-  "comments": [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
+  "Weekly Tasks": [
+    "User",
+    [
+      "Name"
+    ],
+    "Date completed",
+    [
+      "Date"
+    ],
+    "Task",
+    [
+      "Drains At Factory Entrance",
+      "Drains In Packing Room",
+      "Oil Delivery Truck Parking Area"
+    ]
   ],
-  "frequency": [
-    {
-      "id": 0,
-      "content": "Frequency content"
-    }
-  ],
-  "task": [
-    {
-      "id": 0,
-      "title": "First post!",
-      "content": "My first content!"
-    }
-  ],
-  "location": [
-    {
-      "id": 0,
-      "content": "Frequency content"
-    }
+  "Monthly Tasks": [
+    "User",
+    [
+      "Name"
+    ],
+    "Date completed",
+    [
+      "Date"
+    ],
+    "Task",
+    [
+      "Pathway Leading Into Factory",
+      "Roadway Between Dry Store And Factory  ",
+      "Stairs To Canteen",
+      "Walkways In Factory"
+    ]
   ]
 }
