@@ -1,59 +1,79 @@
 {
-  "DailyTasks": [
-    "User",
-    [
-      "Name"
-    ],
-    "Date completed",
-    [
-      "Date"
-    ],
-    "Task",
-    [
-      "Empty Ashtray At Smokers Hut",
-      "Empty Production Waste Bins",
-      "Empty Rubbish Bin At Smokers Hut",
-      "Refill Beard nets",
-      "Refill Blue Hand Roll Dispensers",
-      "Refill Earplugs",
-      "Refill Hairnets",
-      "Refill Hand Sanitiser Dispensers",
-      "Refill Hand Soap Dispensers",
-      "Wipe Down Dispensers At Factory Entrances",
-      "Wipe Down Handwash Stations At Factory Entrances"
-    ]
-  ],
-  "WeeklyTasks": [
-    "User",
-    [
-      "Name"
-    ],
-    "Date completed",
-    [
-      "Date"
-    ],
-    "Task",
-    [
-      "Drains At Factory Entrance",
-      "Drains In Packing Room",
-      "Oil Delivery Truck Parking Area"
-    ]
-  ],
-  "MonthlyTasks": [
-    "User",
-    [
-      "Name"
-    ],
-    "Date completed",
-    [
-      "Date"
-    ],
-    "Task",
-    [
-      "Pathway Leading Into Factory",
-      "Roadway Between Dry Store And Factory  ",
-      "Stairs To Canteen",
-      "Walkways In Factory"
-    ]
-  ]
+   "DailyTasks":[
+      "User",
+      [
+         "Name"
+      ],
+      "Date completed",
+      [
+         "Date"
+      ],
+      "Task",
+      [
+         "Empty Ashtray At Smokers Hut",
+         "Empty Production Waste Bins",
+         "Empty Rubbish Bin At Smokers Hut",
+         "Refill Beard nets",
+         "Refill Blue Hand Roll Dispensers",
+         "Refill Earplugs",
+         "Refill Hairnets",
+         "Refill Hand Sanitiser Dispensers",
+         "Refill Hand Soap Dispensers",
+         "Wipe Down Dispensers At Factory Entrances",
+         "Wipe Down Handwash Stations At Factory Entrances"
+      ]
+   ],
+   "WeeklyTasks":[
+      "User",
+      [
+         "Name"
+      ],
+      "Date completed",
+      [
+         "Date"
+      ],
+      "Task",
+      [
+         "Drains At Factory Entrance",
+         "Drains In Packing Room",
+         "Oil Delivery Truck Parking Area"
+      ]
+   ],
+   "MonthlyTasks":[
+      "User",
+      [
+         "Name"
+      ],
+      "Date completed",
+      [
+         "Date"
+      ],
+      "Task",
+      [
+         "Pathway Leading Into Factory",
+         "Roadway Between Dry Store And Factory  ",
+         "Stairs To Canteen",
+         "Walkways In Factory"
+      ]
+   ],
+   "WeekendTasks":[
+      "User",
+      [
+         "Name"
+      ],
+      "Date completed",
+      [
+         "Date"
+      ],
+      "Task",
+      [
+         "Administration Building Pathway",
+         "Agriculture Office Surrounds",
+         "Clock Card Room",
+         "Maintenance Workshop Surrounds",
+         "Old Specialties Building Surrounds",
+         "Raw Grading Entrance",
+         "Main Turnstile Surrounds"
+      ]
+   ]
 }
