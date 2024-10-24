@@ -75,5 +75,19 @@
          "Raw Grading Entrance",
          "Main Turnstile Surrounds"
       ]
-   ]
+   ],
+  "results": [
+    "frequency",
+    [
+      "As Required, Daily, Monthly, Weekend, Weekly"
+    ],
+    "Extra",
+    [
+      "Antifoam, Audit, Replace, SAM"
+    ],
+    "Requested By",
+    [
+      "Maintenance Electrical, Maintenance Mechanical, Production Employee, Production Manager, Quality Control, Shift Manager, Shift Supervisor"
+    ]
+  ]
 }
