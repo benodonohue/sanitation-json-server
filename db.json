@@ -1,93 +1,28 @@
 {
-   "DailyTasks":[
-      "User",
-      [
-         "Name"
-      ],
-      "Date completed",
-      [
-         "Date"
-      ],
-      "Task",
-      [
-         "Empty Ashtray At Smokers Hut",
-         "Empty Production Waste Bins",
-         "Empty Rubbish Bin At Smokers Hut",
-         "Refill Beard nets",
-         "Refill Blue Hand Roll Dispensers",
-         "Refill Earplugs",
-         "Refill Hairnets",
-         "Refill Hand Sanitiser Dispensers",
-         "Refill Hand Soap Dispensers",
-         "Wipe Down Dispensers At Factory Entrances",
-         "Wipe Down Handwash Stations At Factory Entrances"
-      ]
-   ],
-   "WeeklyTasks":[
-      "User",
-      [
-         "Name"
-      ],
-      "Date completed",
-      [
-         "Date"
-      ],
-      "Task",
-      [
-         "Drains At Factory Entrance",
-         "Drains In Packing Room",
-         "Oil Delivery Truck Parking Area"
-      ]
-   ],
-   "MonthlyTasks":[
-      "User",
-      [
-         "Name"
-      ],
-      "Date completed",
-      [
-         "Date"
-      ],
-      "Task",
-      [
-         "Pathway Leading Into Factory",
-         "Roadway Between Dry Store And Factory  ",
-         "Stairs To Canteen",
-         "Walkways In Factory"
-      ]
-   ],
-   "WeekendTasks":[
-      "User",
-      [
-         "Name"
-      ],
-      "Date completed",
-      [
-         "Date"
-      ],
-      "Task",
-      [
-         "Administration Building Pathway",
-         "Agriculture Office Surrounds",
-         "Clock Card Room",
-         "Maintenance Workshop Surrounds",
-         "Old Specialties Building Surrounds",
-         "Raw Grading Entrance",
-         "Main Turnstile Surrounds"
-      ]
-   ],
-  "results": [
-    "frequency",
-    [
-      "As Required, Daily, Monthly, Weekend, Weekly"
-    ],
-    "Extra",
-    [
-      "Antifoam, Audit, Replace, SAM"
-    ],
-    "Requested By",
-    [
-      "Maintenance Electrical, Maintenance Mechanical, Production Employee, Production Manager, Quality Control, Shift Manager, Shift Supervisor"
-    ]
-  ]
+  "id": "0c2100df-3206-4d41-bc08-2c960233114e",
+  "code": "0000443d-a0b0-4135-a9d5-88ff8baf371a",
+  "type": {
+    "name": "Car",
+    "type_id": "f0186762-7675-4628-8071-fd60d6d00613"
+  },
+  "fields": [
+    {
+      "name": "Brand",
+      "string_value": "Toyota",
+      "field_id": "ef1223ac-dfb5-11ec-9d64-0242ac120001"
+    }
+  ],
+  "created_at": "2022-04-04T07:12:40.736163Z",
+  "modified_at": "2022-07-26T09:12:23.655252Z",
+  "site": {
+    "id": "cb4c0d0a-49b4-4a58-8b4d-3b28f2dc2fa5",
+    "name": "Sydney HQ"
+  },
+  "profile_image": {
+    "id": "026c6df5-c018-413e-aceb-5d4b9a2e842b",
+    "token": "1a38755ad36c62439cba05eb01afd74ac12b2b8df1fcf5f19c29768792c931c4",
+    "filename": "asset.jpeg",
+    "media_type": "MEDIA_TYPE_IMAGE"
+  },
+  "state": "ASSET_STATE_ACTIVE"
 }
