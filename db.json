@@ -1,27 +1,105 @@
 {
-  "results": [
-    {
-      "posts": [
+    "results": [
         {
-          "id": 0,
-          "title": "First post!",
-          "content": "My first content!"
+            "regular": [
+                {
+                    "daily": [
+                        "refill hairnets",
+                        "empty rubbish bins",
+                        "empty Production Waste Bins",
+                        "empty Rubbish Bin At Smokers Hut",
+                        "refill Beard nets",
+                        "refill Blue Hand Roll Dispensers",
+                        "refill Earplugs",
+                        "refill Hairnets",
+                        "refill Hand Sanitiser Dispensers",
+                        "refill Hand Soap Dispensers",
+                        "wipe Down Dispensers At Factory Entrances",
+                        "wipe Down Handwash Stations At Factory Entrances"
+                    ],
+                    "weekly": [
+                        "drains at factory entrance",
+                        {
+                            "id": "",
+                            "comments": "test comment"
+                        },
+                        "drains in packing room",
+                        {
+                            "id": "",
+                            "comments": "test comment"
+                        },
+                        "oil truck delivery unloading area",
+                        {
+                            "id": "",
+                            "comments": "test comment"
+                        },
+                        "in between maintenance and specialties",
+                        {
+                            "id": "",
+                            "comments": "test comment"
+                        }
+                    ],
+                    "weekend": [
+                        "stairs to canteen",
+                        {
+                            "id": "",
+                            "comments": "test comment"
+                        },
+                        "walkways in factory",
+                        {
+                            "id": "",
+                            "comments": "test comment"
+                        },
+                        "pathway leading into factory",
+                        {
+                            "id": "",
+                            "comments": "test comment"
+                        },
+                        "roadway between dry store and factory",
+                        {
+                            "id": "",
+                            "comments": "test comment"
+                        }
+                    ],
+                    "monthly": [
+                        "Administration Building Pathway",
+                        {
+                            "id": "",
+                            "comments": "test comment"
+                        },
+                        "Agriculture Office Surrounds",
+                        {
+                            "id": "",
+                            "comments": "test comment"
+                        },
+                        "Clock Card Room",
+                        {
+                            "id": "",
+                            "comments": "test comment"
+                        },
+                        "Maintenance Workshop Surrounds",
+                        {
+                            "id": "",
+                            "comments": "test comment"
+                        },
+                        "Old Specialties Building Surrounds",
+                        {
+                            "id": "",
+                            "comments": "test comment"
+                        },
+                        "Raw Grading Entrance",
+                        {
+                            "id": "",
+                            "comments": "test comment"
+                        },
+                        "Main Turnstile Surrounds",
+                        {
+                            "id": "",
+                            "comments": "test comment"
+                        }
+                    ]
+                }
+            ]
         }
-      ],
-      "comments": [
-        {
-          "id": 0,
-          "content": "Wow such content!",
-          "username": "zero_cool"
-        }
-      ],
-      "tasks": [
-        {
-          "id": 2,
-          "content": "This is task content",
-          "location": ""
-        }
-      ]
-    }
-  ]
+    ]
 }
