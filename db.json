@@ -1,23 +1,27 @@
 {
-  "posts": [
+  "results": [
     {
-      "id": 0,
-      "title": "First post!",
-      "content": "My first content!"
-    }
-  ],
-  "comments": [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ],
-  "tasks": [
-    {
-      "id": 2,
-      "content": "This is task content",
-      "location": ""
+      "posts": [
+        {
+          "id": 0,
+          "title": "First post!",
+          "content": "My first content!"
+        }
+      ],
+      "comments": [
+        {
+          "id": 0,
+          "content": "Wow such content!",
+          "username": "zero_cool"
+        }
+      ],
+      "tasks": [
+        {
+          "id": 2,
+          "content": "This is task content",
+          "location": ""
+        }
+      ]
     }
   ]
 }
