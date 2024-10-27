@@ -1,50 +1,54 @@
 {
-  "daily": [
+  "data": [
     {
-      "id": 1,
-      "task": [
-        "empty production waste bins",
-        "empty rubbish bin at smokers hut",
-        "empty rubbish bins",
-        "refill beard nets",
-        "refill blue hand roll dispensers",
-        "refill earplugs",
-        "refill hairnets",
-        "refill hairnets",
-        "refill hand sanitiser dispensers",
-        "refill hand soap dispensers",
-        "wipe down dispensers at factory entrances",
-        "wipe down handwash stations at factory entrances"
+      "daily": [
+        {
+          "id": 1,
+          "task": [
+            "empty production waste bins",
+            "empty rubbish bin at smokers hut",
+            "empty rubbish bins",
+            "refill beard nets",
+            "refill blue hand roll dispensers",
+            "refill earplugs",
+            "refill hairnets",
+            "refill hairnets",
+            "refill hand sanitiser dispensers",
+            "refill hand soap dispensers",
+            "wipe down dispensers at factory entrances",
+            "wipe down handwash stations at factory entrances"
+          ]
+        }
+      ],
+      "weekly": [
+        {
+          "id": 2,
+          "task": "drains at factory entrance"
+        },
+        "drains in packing room",
+        "oil delivery truck parking area"
+      ],
+      "weekend": [
+        {
+          "id": "3"
+        },
+        "pathway leading into factory",
+        "roadway between dry store and factory",
+        "stairs to canteen",
+        "walkways in factory"
+      ],
+      "monthly": [
+        {
+          "id": "4"
+        },
+        "administration building pathway",
+        "agriculture office surrounds",
+        "clock card room",
+        "maintenance workshop surrounds",
+        "old specialties building surrounds",
+        "raw grading entrance",
+        "main turnstile surrounds"
       ]
     }
-  ],
-  "weekly": [
-    {
-      "id": 2,
-      "task": "drains at factory entrance"
-    },
-    "drains in packing room",
-    "oil delivery truck parking area"
-  ],
-  "weekend": [
-    {
-      "id": "3"
-    },
-    "pathway leading into factory",
-    "roadway between dry store and factory",
-    "stairs to canteen",
-    "walkways in factory"
-  ],
-  "monthly": [
-    {
-      "id": "4"
-    },
-    "administration building pathway",
-    "agriculture office surrounds",
-    "clock card room",
-    "maintenance workshop surrounds",
-    "old specialties building surrounds",
-    "raw grading entrance",
-    "main turnstile surrounds"
   ]
 }
