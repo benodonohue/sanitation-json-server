@@ -1,7 +1,7 @@
 {
     "dailyTasks": [
         {
-            "id": "ef1223ac-dfb5-11ec-9d64-0242ac120001"
+            "id": "1"
         },
         "empty production waste bins",
         "empty rubbish bin at smokers hut",
@@ -18,7 +18,7 @@
     ],
     "weeklyTasks": [
         {
-            "id": "ef1223ac-dfb5-11ec-9d64-0242ac120001"
+            "id": "2"
         },
         "drains at factory entrance",
         "drains in packing room",
@@ -26,7 +26,7 @@
     ],
     "weekendTasks": [
         {
-            "id": "ef1223ac-dfb5-11ec-9d64-0242ac120001"
+            "id": "3"
         },
         "pathway leading into factory",
         "roadway between dry store and factory",
@@ -35,7 +35,7 @@
     ],
     "monthlyTasks": [
         {
-            "id": "ef1223ac-dfb5-11ec-9d64-0242ac120001"
+            "id": "4"
         },
         "administration building pathway",
         "agriculture office surrounds",
