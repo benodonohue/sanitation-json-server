@@ -17,14 +17,32 @@
         "wipe down handwash stations at factory entrances"
     ],
     "weeklyTasks": [
+        {
+            "id": "ef1223ac-dfb5-11ec-9d64-0242ac120001"
+        },
         "drains at factory entrance",
         "drains in packing room",
         "oil delivery truck parking area"
     ],
     "weekendTasks": [
+        {
+            "id": "ef1223ac-dfb5-11ec-9d64-0242ac120001"
+        },
         "pathway leading into factory",
         "roadway between dry store and factory",
         "stairs to canteen",
         "walkways in factory"
+    ],
+    "monthlyTasks": [
+        {
+            "id": "ef1223ac-dfb5-11ec-9d64-0242ac120001"
+        },
+        "administration building pathway",
+        "agriculture office surrounds",
+        "clock card room",
+        "maintenance workshop surrounds",
+        "old specialties building surrounds",
+        "raw grading entrance",
+        "main turnstile surrounds"
     ]
 }
