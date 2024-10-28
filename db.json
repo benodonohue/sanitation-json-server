@@ -15,28 +15,37 @@
         "refill hand soap dispensers",
         "wipe down dispensers at factory entrances",
         "wipe down handwash stations at factory entrances"
-      ]
+      ],
+      "qrCode": ""
     }
   ],
   "weekly": [
     {
       "id": 2,
-      "task": "drains at factory entrance"
+      "task": "drains at factory entrance",
+      "qrCode": ""
     },
     {
       "id": 3,
-      "task": "drains in packing room"
+      "task": "drains in packing room",
+      "qrCode": ""
     },
     {
       "id": 4,
-      "task": "oil delivery truck parking area"
+      "task": "oil delivery truck parking area",
+      "qrCode": ""
     }
   ],
   "weekend": [
     {
-      "id": "pathway leading into factory",
-      "task": 5,
-      "url": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=pathway%20leading%20into%20factory"
+      "id": 5,
+      "task": "pathway leading into factory",
+      "qrCode": ""
+    },
+    {
+      "id": 6,
+      "task": "roadway between dry store and factory",
+      "qrCode": ""
     },
     "roadway between dry store and factory",
     "stairs to canteen",
