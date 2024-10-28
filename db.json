@@ -47,20 +47,52 @@
       "task": "roadway between dry store and factory",
       "qrCode": ""
     },
-    "roadway between dry store and factory",
-    "stairs to canteen",
-    "walkways in factory"
+    {
+      "id": 7,
+      "task": "stairs to canteen",
+      "qrCode": ""
+    },
+    {
+      "id": 8,
+      "task": "walkways in factory",
+      "qrCode": ""
+    }
   ],
   "monthly": [
     {
-      "id": "4"
+      "id": 9,
+      "task": "administration building pathway",
+      "qrCode": ""
     },
-    "administration building pathway",
-    "agriculture office surrounds",
-    "clock card room",
-    "maintenance workshop surrounds",
-    "old specialties building surrounds",
-    "raw grading entrance",
-    "main turnstile surrounds"
+    {
+      "id": 10,
+      "task": "agriculture office surrounds",
+      "qrCode": ""
+    },
+    {
+      "id": 11,
+      "task": "clock card room",
+      "qrCode": ""
+    },
+    {
+      "id": 12,
+      "task": "main turnstile surrounds",
+      "qrCode": ""
+    },
+    {
+      "id": 13,
+      "task": "maintenance workshop surrounds",
+      "qrCode": ""
+    },
+    {
+      "id": 14,
+      "task": "old specialties building surrounds",
+      "qrCode": ""
+    },
+    {
+      "id": 15,
+      "task": "raw grading entrance",
+      "qrCode": ""
+    }
   ]
 }
