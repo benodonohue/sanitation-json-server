@@ -35,7 +35,8 @@
   "weekend": [
     {
       "id": "pathway leading into factory",
-      "task": 5
+      "task": 5,
+      "url": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=pathway%20leading%20into%20factory"
     },
     "roadway between dry store and factory",
     "stairs to canteen",
