@@ -1,98 +1,375 @@
-{
-  "daily": [
-    {
-      "id": 1,
-      "task": [
-        "empty production waste bins",
-        "empty rubbish bin at smokers hut",
-        "empty rubbish bins",
-        "refill beard nets",
-        "refill blue hand roll dispensers",
-        "refill earplugs",
-        "refill hairnets",
-        "refill hairnets",
-        "refill hand sanitiser dispensers",
-        "refill hand soap dispensers",
-        "wipe down dispensers at factory entrances",
-        "wipe down handwash stations at factory entrances"
+[
+  {
+    "category": [
+      "additional",
+      "antifoam",
+      "audit",
+      "chemical",
+      "daily",
+      "department",
+      "equipment",
+      "extra",
+      "frequency",
+      "location",
+      "monthly",
+      "nonessential",
+      "replace",
+      "requestBy",
+      "sam",
+      "weekend",
+      "weekly"
+    ]
+  },
+  {
+    "antifoam": {
+      "cold water": [
+        {
+          "id": "1",
+          "task": "change 1000L IBC (intermediate bulk container)",
+          "location": "cutting & sorting",
+          "description": ""
+        }
       ],
-      "qrCode": "3"
+      "hot water": [
+        {
+          "id": "1",
+          "task": "change 1000L IBC (intermediate bulk container)",
+          "location": "cutting & sorting",
+          "description": "FG601"
+        },
+        {
+          "id": "1",
+          "task": "change 1000L IBC (intermediate bulk container)",
+          "location": "external factory",
+          "description": "FG601"
+        }
+      ]
     }
-  ],
-  "weekly": [
-    {
-      "id": 2,
-      "task": "drains at factory entrance",
-      "qrCode": ""
-    },
-    {
-      "id": 3,
-      "task": "drains in packing room",
-      "qrCode": ""
-    },
-    {
-      "id": 4,
-      "task": "oil delivery truck parking area",
-      "qrCode": ""
+  },
+  {
+    "nonessential": [
+      {
+        "id": "1",
+        "task": "fresh oil tanks (outside factory) catchments x 3",
+        "frequency": "as required",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "hose under dryer",
+        "frequency": "as required",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "overnight oil tanks (inside factory) catchments x 1",
+        "frequency": "as required",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "qc lab oil tanks",
+        "frequency": "as required",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "spiral freezer electrical cabinets ",
+        "frequency": "as required",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "spiral freezer troughs",
+        "frequency": "as required",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "stairs to training room",
+        "frequency": "as required",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "tunnel freezer electrical cabinets ",
+        "frequency": "as required",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "tunnel freezer troughs",
+        "frequency": "as required",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "audit": {
+      "high pressure units": [
+        "fixed",
+        "portable"
+      ],
+      "chemical foaming units": [
+        "fixed",
+        "portable"
+      ]
     }
-  ],
-  "weekend": [
-    {
-      "id": 5,
-      "task": "pathway leading into factory",
-      "qrCode": ""
-    },
-    {
-      "id": 6,
-      "task": "roadway between dry store and factory",
-      "qrCode": ""
-    },
-    {
-      "id": 7,
-      "task": "stairs to canteen",
-      "qrCode": ""
-    },
-    {
-      "id": 8,
-      "task": "walkways in factory",
-      "qrCode": ""
-    }
-  ],
-  "monthly": [
-    {
-      "id": 9,
-      "task": "administration building pathway",
-      "qrCode": ""
-    },
-    {
-      "id": 10,
-      "task": "agriculture office surrounds",
-      "qrCode": ""
-    },
-    {
-      "id": 11,
-      "task": "clock card room",
-      "qrCode": ""
-    },
-    {
-      "id": 12,
-      "task": "main turnstile surrounds",
-      "qrCode": ""
-    },
-    {
-      "id": 13,
-      "task": "maintenance workshop surrounds",
-      "qrCode": ""
-    },
-    {
-      "id": 14,
-      "task": "old specialties building surrounds",
-      "qrCode": ""
-    },
-    {
-      "id": 15,
-      "task": "raw grading entrance",
-      "qrCode": ""
-    }
-  ]
-}
+  },
+  {
+    "chemical": [
+      "general purpose detergent",
+      "glissen (straight caustic)",
+      "topax 32",
+      "topax 625",
+      "topax 686",
+      "xy-12"
+    ]
+  },
+  {
+    "daily": [
+      {
+        "id": "1",
+        "task": "empty ashtray at smokers hut",
+        "frequency": "daily",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "empty production waste bins",
+        "frequency": "daily",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "empty rubbish bin at smokers hut",
+        "frequency": "daily",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "refill beard nets",
+        "frequency": "daily",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "refill blue hand roll dispensers",
+        "frequency": "daily",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "refill earplugs",
+        "frequency": "daily",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "refill hairnets",
+        "frequency": "daily",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "refill hand sanitiser dispensers",
+        "frequency": "daily",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "refill hand soap dispensers",
+        "frequency": "daily",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "wipe down dispensers at factory entrances",
+        "frequency": "daily",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "wipe down hand wash stations at factory entrances",
+        "frequency": "daily",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "department": [
+      "maintenance electrical",
+      "maintenance mechanical",
+      "production employee",
+      "production manager",
+      "quality control",
+      "sanitation manager",
+      "shift manager",
+      "shift supervisor"
+    ]
+  },
+  {
+    "equipment": [
+      {
+        "blue handroll dispenser": {
+          "location": "$.location[]"
+        }
+      },
+      [
+        "broom head",
+        "broom head & pole",
+        "broom pole",
+        "hand dispenser sanitizer",
+        "hand dispenser soap",
+        "hose",
+        "hose & nozzle",
+        "nozzle",
+        "other",
+        "shovel metal",
+        "shovel plastic",
+        "spray pack 5lt",
+        "squeegee head 300mm",
+        "squeegee head 300mm & pole",
+        "squeegee head 500mm",
+        "squeegee head 500mm & pole",
+        "squeegee pole"
+      ]
+    ]
+  },
+  {
+    "frequency": [
+      "additional",
+      "daily",
+      "extra",
+      "monthly",
+      "nonessential",
+      "weekend",
+      "weekly"
+    ]
+  },
+  {
+    "location": [
+      "blade room",
+      "case deck",
+      "cleaning shed",
+      "cutting and sorting",
+      "dry store",
+      "external yard",
+      "external factory",
+      "grading final",
+      "grading raw",
+      "packing room",
+      "peeler house",
+      "qc laboratory",
+      {
+        "process": [
+          "fry line",
+          "shred line"
+        ]
+      },
+      "qc lab",
+      "raw grading"
+    ]
+  },
+  {
+    "monthly": [
+      {
+        "id": "1",
+        "task": "administration building pathway",
+        "frequency": "monthly",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "agriculture office surrounds",
+        "frequency": "monthly",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "clock card room",
+        "frequency": "monthly",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "main turnstile surrounds",
+        "frequency": "monthly",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "maintenance workshop surrounds",
+        "frequency": "monthly",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "old specialties building surrounds",
+        "frequency": "monthly",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "raw grading entrance",
+        "frequency": "monthly",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "replace": [
+      {}
+    ]
+  },
+  {
+    "weekend": [
+      {
+        "id": "1",
+        "task": "pathway leading into factory",
+        "frequency": "weekend",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "roadway between dry store and factory",
+        "frequency": "weekend",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "stairs to canteen",
+        "frequency": "weekend",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "walkways in factory",
+        "frequency": "weekend",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "weekly": [
+      {
+        "id": "1",
+        "task": "drains at factory entrance",
+        "frequency": "weekly",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "drains in packing room",
+        "frequency": "weekly",
+        "description": ""
+      },
+      {
+        "id": "1",
+        "task": "oil delivery truck parking area",
+        "frequency": "weekly",
+        "description": ""
+      }
+    ]
+  }
+]
